@@ -1,1 +1,1 @@
-# OpenShift GitOps Lab
+# OpenShift GitOps Lab Roly
